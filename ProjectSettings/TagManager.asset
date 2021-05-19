@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - "Ep\xE9e"
+  - DoorsTrigger
+  - Explosion
+  - Wall
+  - Range_Attack
+  - Coins
+  - Enemy
+  - Bubble
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - DoorsTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sol
+    uniqueID: 422693501
+    locked: 0
+  - name: Wall
+    uniqueID: 970640381
+    locked: 0
+  - name: Enemy
+    uniqueID: 2186059395
+    locked: 0
+  - name: Item
+    uniqueID: 1340232133
+    locked: 0
+  - name: Player
+    uniqueID: 2999347701
+    locked: 0
+  - name: Bullet
+    uniqueID: 1228828989
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 1900985693
+    locked: 0
